@@ -29,8 +29,8 @@ dataset_info = {
     "Name": "Longitudinal MRI Study of ALS",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
-    "Authors": ["Pedram [Last Name]"],
-    "Funding": ["CIHR Grant #XXXX"],
+    "Authors": ["Pedram Parnianpour"],
+    "Funding": ["#XXXX"],
     "ReferencesAndLinks": ["https://example-lab-url.ca"],
     "DatasetDOI": "10.18112/openneuro.dsXXXXXX.v1.0.0"
 }
