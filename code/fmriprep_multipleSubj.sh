@@ -7,9 +7,9 @@ set -x  # Debug: print each command as it runs
 
 #User inputs:
 bids_root_dir=/path/to/project_root
-subjects=("01","02","03") # <-- Add as many subjects as you want
-nthreads=4
-mem=50 #gb
+subjects=("01" "02" "03") # <-- Add as many subjects as you want
+nthreads=16
+mem=60 #gb
 
 #Begin:
 
